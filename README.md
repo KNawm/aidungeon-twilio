@@ -6,7 +6,7 @@
 
 ## About
 
-This sample shows how to integrate a custom machine learning model with an API to build an AI-powered conversational bot that builds a story based on your input.
+This project shows how to integrate a custom machine learning model with an API to build an AI-powered conversational bot that builds a story based on your input.
 
 
 ## Set up
