@@ -14,9 +14,9 @@ This project shows how to integrate a custom machine learning model with an API 
 ### Requirements
 
 - Python 3.4 or newer
-- A Twilio account — [sign up](www.twilio.com/referral/CwlrIy)
+- A Twilio account — [sign up](https://www.twilio.com/referral/CwlrIy)
 - A Twilio phone number with Voice capabilities
-- A AIDungeon account — [sign up](play.aidungeon.io)
+- A AIDungeon account — [sign up](https://play.aidungeon.io)
 
 ### Local development
 
@@ -53,9 +53,9 @@ Open `.env` in your favorite text editor and configure the following values.
 | Config Value  | Description |
 | :-------------  |:------------- |
 `TWILIO_ACCOUNT_SID` | Your primary Twilio account identifier - [find this in the console here](https://www.twilio.com/console).
-`TWILIO_AUTH_TOKEN` | Used to authenticate - [you can get it at twilio.com/console](twilio.com/console).
-`AIDUNGEON_EMAIL` | Your AIDungeon account email - [get a free account at play.aidungeon.io](play.aidungeon.io).
-`AIDUNGEON_PASS` | Your AIDungeon account password - [just like the above, you'll get one here](play.aidungeon.io).
+`TWILIO_AUTH_TOKEN` | Used to authenticate - [you can get it at twilio.com/console](https://www.twilio.com/console).
+`AIDUNGEON_EMAIL` | Your AIDungeon account email - [get a free account at play.aidungeon.io](https://play.aidungeon.io).
+`AIDUNGEON_PASS` | Your AIDungeon account password - [just like the above, you'll get one here](https://play.aidungeon.io).
 
 5. Run the application
 
@@ -95,5 +95,3 @@ This project is open source and welcomes contributions.
 ## Disclaimer
 
 No warranty expressed or implied. Software is as is.
-
-[twilio]: https://www.twilio.com
