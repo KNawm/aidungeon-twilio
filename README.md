@@ -90,11 +90,3 @@ That's it!
 ## Contributing
 
 This project is open source and welcomes contributions.
-
-## License
-
-[MIT](http://www.opensource.org/licenses/mit-license.html)
-
-## Disclaimer
-
-No warranty expressed or implied. Software is as is.
